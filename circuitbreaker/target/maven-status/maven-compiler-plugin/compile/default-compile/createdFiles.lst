@@ -1,0 +1,3 @@
+com\example\circuitbreaker\MyController.class
+com\example\circuitbreaker\MyService.class
+com\example\circuitbreaker\CircuitbreakerApplication.class
